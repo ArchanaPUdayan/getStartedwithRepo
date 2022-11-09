@@ -1,4 +1,4 @@
-package workout2;
+package workout;
 
 public class MathFunction {
 

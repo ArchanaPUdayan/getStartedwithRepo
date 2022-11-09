@@ -1,4 +1,4 @@
-package workout2;
+package workout;
 import java.util.Scanner;
 class Employee{
     String name;
